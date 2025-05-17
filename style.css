@@ -1,0 +1,48 @@
+.header{
+    background-color: rgb(51, 109, 245);
+    text-align: center;
+    padding: 10px;
+    width: 780px;
+    margin-left: 360px;
+}
+
+.left{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.main{
+    background-color: green;
+    width: 400px;
+    height: 200px;
+}
+
+.right{
+     background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
+.ota{
+    display: flex;
+    margin-left: 360px;
+    
+}
+.ota2{
+    background-color: rgb(194, 39, 240);
+    display: flex;
+    width: 741px;
+    height: 160px;
+    text-align: center;
+    gap: 20px;
+    padding-top: 40px;
+    padding-left: 60px;
+    margin-left: 360px;
+}
+
+.footer{
+    background-color: orange;
+    width: 150px;
+    height: 80px;
+
+}
